@@ -7,7 +7,7 @@
     "node": ">=20"
   },
   "scripts": {
-    "start": "node -r dotenv/config index.js",
+    "start": "node render-server.js",
     "dev": "nodemon index.js"
   },
   "repository": "https://github.com/Neeraj-x0/x-asena",
